@@ -1,7 +1,5 @@
-# GoalsAppSupabase
+# Goals
 
-A new Flutter project.
+Goals is a productivity mobile app built with Flutter and FlutterFlow.
 
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+It helps you organize your day and track your goals by creating tasks, marking them as done with checkboxes, and using reminder-like flows to add, edit, and delete goals easily.
